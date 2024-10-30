@@ -1,0 +1,15 @@
+nav{
+    background-color: rgb(23, 43, 255);
+    color: rgb(246, 255, 0);
+    height: 70px;
+    border: solid rgb(0, 0, 0) 1px;
+    padding: 5px;
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    z-index: 10;
+    opacity: 1;
+    display: flex;
+    justify-content: center;
+}
